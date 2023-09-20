@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+
+}
+body{
+    background-color: #0162be;
+}
+header ul li a{
+    padding: 7px;
+    font-size: 18px !important;
+}
+header ul li a:hover{
+    background-color: white;
+    color: #0162be !important;
+    border-radius: 30px;
+}
+header ul li:first-child{
+    background-color: white;
+    
+    border-radius: 30px;
+    color: #0162be !important;
+}
+.info p{
+    line-height: 1.8;
+}
+.info a{
+    letter-spacing: 1.5px;
+    font-weight: 600;
+    color: #0162be;
+}
+.info a:hover{
+    background-color: transparent;
+    color: #fff;
+}
+.main{
+    height: 80%;
+}
+.fa ul li a{
+    font-size: 25px;
+}
+.fi ul li a{
+    font-size: 25px;
+
+}
